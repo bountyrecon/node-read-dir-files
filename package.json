@@ -24,7 +24,7 @@
   "main": "./lib/read-dir-files",
   "dependencies": {
     "async": "0.1.x",
-    "errs": "0.1.x"
+    "errs": "0.3.2"
   },
   "devDependencies": {
     "vows": "0.6.x"
